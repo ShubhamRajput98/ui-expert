@@ -1,0 +1,53 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.log{
+    box-shadow: 0px 3px 5px 0 black;
+}
+.titel{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+i{
+    color: white;
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+.card-titel{
+    font-size: 20px;
+}
+.services{
+    background-color: rgba(177, 175, 174, 0.664);
+}
+.d-flex{
+    display: flex;
+    flex-direction: row;
+}
+.fa-arrow-right{
+    font-size: 20px;
+}
+.img1{
+    clip-path: polygon(100% 0, 100% 93%, 88% 86%, 73% 82%, 60% 85%, 45% 89%, 27% 88%, 11% 82%, 0 74%, 0 0);
+}
+
+.logo img{
+    width: 160px;
+    height: 80px;
+}
+.icon i{
+    font-size: 35px;
+    margin: 5px;
+}
+.icon a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
